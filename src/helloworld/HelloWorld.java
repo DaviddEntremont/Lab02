@@ -19,6 +19,10 @@ public class HelloWorld {
         String text = "Hello World!";
         
         System.out.println(text);
+        
+        String text2 = "Lab2 Here!";
+        
+        System.out.println(text2);
     }
     
 }
